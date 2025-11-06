@@ -1,14 +1,11 @@
-# Fibonacci-Calculator
-A simple C# console application that calculates and displays the Fibonacci sequence up to a user-specified number of terms. 
-This project demonstrates input validation, loop-based computation, jump statements, and formatted output messaging.
-
 # 📘 FibonacciCalculator
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-.NET%206.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A beginner-friendly C# console application that calculates and displays the Fibonacci sequence up to a user-specified number of terms. This project demonstrates input validation, loop-based computation, jump statements, and formatted output messaging.
+A beginner-friendly C# console application that calculates and displays the Fibonacci sequence up to a user-specified number of terms. 
+This project demonstrates input validation, loop-based computation, jump statements, and formatted output messaging.
 
 ---
 
